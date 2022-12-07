@@ -5,9 +5,7 @@
 vi filename
 ```
 
-## to save or exit
-
-press `esc` then:
+## to save or exit (press `esc` then)
 
 to save and quit
 ```
@@ -29,18 +27,51 @@ to save and quit
 :wq
 ```
 
-## to navigate in vi
-**Arrow keys** move the cursor
-**^** move cursur to the beginning of the current line
-**$** move cursor to the end of the current line
-**G** move to the last line
-**w** move to the beginning of the next word
-**b** move to the beginning of the previous word
+## to navigate in vi (press `esc` then)
 
-## to delete content
-**x** delete a single character
-**dd** delete the current line
+move the cursor
+```
+Arrow keys
+```
+move cursur to the beginning of the current line
+```
+^
+```
+move cursor to the end of the current line
+```
+$
+```
+move to the last line
+```
+G
+```
+move to the beginning of the next word
+```
+w
+```
+move to the beginning of the previous word
+```
+b
+```
 
-## to undo
-**u** undo the last action
-**U** undo all changes
+## to delete content (press `esc` then)
+
+delete a single character
+```
+x
+```
+delete the current line
+```
+dd
+```
+
+## to undo (press `esc` then)
+
+undo the last action
+```
+u
+```
+undo all changes
+```
+U
+```
