@@ -32,11 +32,11 @@ paste
 ```
 p
 ```
-cut line (it also works as delete the line)
+cut line (also works as delete the line)
 ```
 dd
 ```
-cut word (ir also works as delete the word)
+cut word (also works as delete the word)
 ```
 dw
 ```
