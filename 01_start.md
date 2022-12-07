@@ -7,22 +7,22 @@ vi filename
 
 ## to save or exit (press `esc` then)
 
-to save and quit
+save and quit
 ```
 ZZ
 ```
 
-to discard changes and quit
+discard changes and quit
 ```
 :q!
 ```
 
-to save
+just save
 ```
 :w
 ```
 
-to save and quit
+save and quit
 ```
 :wq
 ```
@@ -45,11 +45,11 @@ move to the last line
 ```
 G
 ```
-move to the beginning of the next word
+move to the next word
 ```
 w
 ```
-move to the beginning of the previous word
+move to the previous word
 ```
 b
 ```
@@ -67,7 +67,7 @@ dd
 
 ## to undo (press `esc` then)
 
-undo the last action
+undo the last change
 ```
 u
 ```
