@@ -18,7 +18,7 @@
     - open multiple files
     - navigate between files
 - vim
-  - read 01 and 02 chapters from vi section
+  - everything from `vi` chapter also works in vim (ofcourse you have to replace vi with vim)
   - in progress
 - nano
   - in progress
