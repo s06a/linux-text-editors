@@ -18,6 +18,7 @@
     - open multiple files
     - navigate between files
 - vim
+  - read 01 and 02 chapters from vi section
   - in progress
 - nano
   - in progress
