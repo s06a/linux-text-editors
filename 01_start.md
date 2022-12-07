@@ -5,6 +5,16 @@
 vi filename
 ```
 
+## to insert (write code or edit)
+to insert
+```
+i
+```
+to append (insert after current cursor)
+```
+a
+```
+
 ## to save or exit (press `esc` then)
 
 save and quit
