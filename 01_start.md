@@ -6,13 +6,39 @@ vi filename
 ```
 
 ## to insert (write code or edit)
-to insert
+insert (start the edit mode)
 ```
 i
 ```
-to append (insert after current cursor)
+append (insert after current cursor)
 ```
 a
+```
+insert a new line after the current line
+```
+o
+```
+
+## to copy/cut/paste
+copy a line
+```
+yy
+```
+copy a word
+```
+yw
+```
+paste
+```
+p
+```
+cut line (it also works as delete the line)
+```
+dd
+```
+cut word (ir also works as delete the word)
+```
+dw
 ```
 
 ## to save or exit (press `esc` then)
