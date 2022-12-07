@@ -6,3 +6,13 @@
 
 ## Why vi?
 - it's ubiquitous!
+
+## chapters
+- 01
+  - open a file
+  - edit/copy/paste/cut
+  - navigate
+  - exit/save
+- 02
+  - open multiple files
+  - navigate between files
