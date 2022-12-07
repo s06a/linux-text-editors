@@ -17,8 +17,10 @@
   - 02
     - open multiple files
     - navigate between files
+    - find/replace
+    - in progress
 - vim
-  - everything from `vi` chapter also works in vim (ofcourse you have to replace vi with vim)
+  - everything from vi also works in vim
   - in progress
 - nano
   - in progress
