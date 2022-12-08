@@ -5,7 +5,7 @@
 - that's it!
 
 ## chapters
-- vi/vim
+- **vi/vim**
   - 01
     - open/save/exit
     - edit/copy/paste/cut
@@ -16,10 +16,10 @@
     - find/replace
   - 03
     - in progress
-- nano
+- **nano**
   - 01
     - open/save/exit
     - in progress
-- emacs
+- **emacs**
   - 01
     - in progress
