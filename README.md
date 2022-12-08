@@ -12,7 +12,7 @@
   - 01
     - open a file
     - edit/copy/paste/cut
-    - navigate
+    - navigate in the file
     - exit/save
   - 02
     - open multiple files
