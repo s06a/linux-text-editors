@@ -14,7 +14,9 @@
     - open multiple files
     - navigate between files
     - find/replace
+  - 03
     - in progress
 - nano
   - 01
     - open/save/exit
+    - in progress
