@@ -23,4 +23,5 @@
   - everything from vi also works in vim
   - in progress
 - nano
-  - in progress
+  - 01
+    - open/save/exit
