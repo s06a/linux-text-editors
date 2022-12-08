@@ -1,4 +1,4 @@
-# Learn vi, vim, and nano (the concise way!)
+# Learn vi, vim, nano, and emacs (the concise way!)
 
 ## How this repository would be different from other repositories?
 - it should be short and concise
@@ -19,4 +19,7 @@
 - nano
   - 01
     - open/save/exit
+    - in progress
+- emacs
+  - 01
     - in progress
