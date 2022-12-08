@@ -10,10 +10,9 @@
 ## chapters
 - vi
   - 01
-    - open a file
+    - open/save/exit
     - edit/copy/paste/cut
     - navigate in the file
-    - exit/save
   - 02
     - open multiple files
     - navigate between files
