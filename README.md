@@ -4,11 +4,8 @@
 - it should be short and concise
 - that's it!
 
-## Why vi?
-- it's ubiquitous!
-
 ## chapters
-- vi
+- vi/vim
   - 01
     - open/save/exit
     - edit/copy/paste/cut
@@ -18,9 +15,6 @@
     - navigate between files
     - find/replace
     - in progress
-- vim
-  - everything from vi also works in vim
-  - in progress
 - nano
   - 01
     - open/save/exit
