@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 <!-- vim-markdown-toc GFM -->
 
 * [working with vi/vim](#working-with-vivim)
