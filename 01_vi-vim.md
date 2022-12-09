@@ -3,6 +3,11 @@
 vi filename
 ```
 
+## to see help
+```
+:help
+```
+
 ## command mode
 ```
 esc
@@ -22,6 +27,41 @@ go to the next file
 go to the previous file
 ```
 :N
+```
+
+to list all opened files (buffers)
+```
+:ls
+```
+
+to select buffer file (n is number of prefered buffer)
+```
+:b n
+```
+
+go to the next buffer
+```
+:bn
+```
+
+go to the previous buffer
+```
+:bp
+```
+
+to close current buffer
+```
+:bd
+```
+
+to save all files and quit
+```
+:wqa
+```
+
+to discard all changes and quit
+```
+:q!
 ```
 
 ## to work with tabs
@@ -49,6 +89,16 @@ to move to the previous tab
 to open a file with split screen
 ```
 :sp filename
+```
+
+to open a file with horizontal split
+```
+:split filename
+```
+
+to opne a file with vertical split
+```
+:vsplit filename
 ```
 
 to move to the bottom screen (`ctrl`+`w` and then)
@@ -86,6 +136,10 @@ A
 insert a new line after the current line
 ```
 o
+```
+insert a new line before the cuurent line
+```
+O
 ```
 
 ## to copy/cut/paste 
@@ -137,7 +191,7 @@ save and quit
 :wq
 ```
 
-## to navigate in vi 
+## to navigate in the editor 
 move the cursor
 ```
 Arrow keys
