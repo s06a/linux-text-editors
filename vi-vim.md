@@ -142,6 +142,21 @@ to navigate between splitted screens (`ctrl`+`w` and then)
 arrow keys
 ```
 
+to increase/decrease height
+```
+ctrl+w +/-
+```
+
+to increase/decrease width
+```
+ctrl+w >/<
+```
+
+to equalize height and width of all windows
+```
+ctrl+w =
+```
+
 ## to write (insert mode)
 insert
 ```
