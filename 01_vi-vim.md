@@ -30,6 +30,11 @@ to open a file in a new tab
 :tabe filename
 ```
 
+to open multiple files in tab mode from terminal
+```
+vim -p file1 file2
+```
+
 to move to the next tab
 ```
 :tabn
