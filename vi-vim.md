@@ -1,3 +1,21 @@
+<!-- vim-markdown-toc GFM -->
+
+* [to open a file](#to-open-a-file)
+* [to see help](#to-see-help)
+* [command mode](#command-mode)
+* [to work with multiple files](#to-work-with-multiple-files)
+* [to work with tabs](#to-work-with-tabs)
+* [to work with split screen mode](#to-work-with-split-screen-mode)
+* [to write (insert mode)](#to-write-insert-mode)
+* [to copy/cut/paste](#to-copycutpaste)
+* [to save or exit](#to-save-or-exit)
+* [to navigate in the editor](#to-navigate-in-the-editor)
+* [to delete content](#to-delete-content)
+* [to undo](#to-undo)
+* [to find, or find and replace a word](#to-find-or-find-and-replace-a-word)
+
+<!-- vim-markdown-toc -->
+
 ## to open a file
 ```
 vi filename
