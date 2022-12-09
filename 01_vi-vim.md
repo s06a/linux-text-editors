@@ -3,6 +3,11 @@
 vi filename
 ```
 
+## command mode
+```
+esc
+```
+
 ## to work with multiple files
 to open multiple files
 ```
@@ -54,11 +59,6 @@ W
 to navigate between splitted screens (`ctrl`+`w` and then)
 ```
 arrow keys
-```
-
-## command mode
-```
-esc
 ```
 
 ## to write (insert mode)
