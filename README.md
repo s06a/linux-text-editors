@@ -7,7 +7,7 @@
 ## chapters
 - **vi-vim** (almost done)
 	- open/save/exit/navigate (single and multiple files)
-	- buffer/tab/screen split
+	- buffer/tab/split
 	- edit/copy/cut/paste/delete/undo
 	- find or replace
 - **nano** in progress
