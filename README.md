@@ -5,9 +5,13 @@
 - that's it!
 
 ## chapters
-- **01_vi-vim** almost done
-- **02_nano** in progress
-- **03_emacs** in progress
-- **04_micro** not strated yet
+- **vi-vim** almost done
+	- open/save/exit/navigate (single and multiple files)
+	- buffer/tab/screen split
+	- edit/copy/cut/paste/delete/undo
+	- find or replace
+- **nano** in progress
+- **emacs** in progress
+- **micro** not strated yet
 
 
