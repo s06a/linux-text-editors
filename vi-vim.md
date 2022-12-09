@@ -1,20 +1,27 @@
+Table of contents
 <!-- vim-markdown-toc GFM -->
 
-* [to open a file](#to-open-a-file)
-* [to see help](#to-see-help)
-* [command mode](#command-mode)
-* [to work with multiple files](#to-work-with-multiple-files)
-* [to work with tabs](#to-work-with-tabs)
-* [to work with split screen mode](#to-work-with-split-screen-mode)
-* [to write (insert mode)](#to-write-insert-mode)
-* [to copy/cut/paste](#to-copycutpaste)
-* [to save or exit](#to-save-or-exit)
-* [to navigate in the editor](#to-navigate-in-the-editor)
-* [to delete content](#to-delete-content)
-* [to undo](#to-undo)
-* [to find, or find and replace a word](#to-find-or-find-and-replace-a-word)
+* [working with vi/vim](#working-with-vivim)
+	* [to open a file](#to-open-a-file)
+	* [to see help](#to-see-help)
+	* [command mode](#command-mode)
+	* [to work with multiple files](#to-work-with-multiple-files)
+	* [to work with tabs](#to-work-with-tabs)
+	* [to work with split screen mode](#to-work-with-split-screen-mode)
+	* [to write (insert mode)](#to-write-insert-mode)
+	* [to copy/cut/paste](#to-copycutpaste)
+	* [to save or exit](#to-save-or-exit)
+	* [to navigate in the editor](#to-navigate-in-the-editor)
+	* [to delete content](#to-delete-content)
+	* [to undo](#to-undo)
+	* [to find, or find and replace a word](#to-find-or-find-and-replace-a-word)
+* [plugins](#plugins)
+	* [install plugin with Vundle plugin manager](#install-plugin-with-vundle-plugin-manager)
+	* [generate table of contents for md files](#generate-table-of-contents-for-md-files)
 
 <!-- vim-markdown-toc -->
+
+# working with vi/vim
 
 ## to open a file
 ```
@@ -310,4 +317,37 @@ to find and replace in the current line
 to find and replace in certain lines
 ```
 :(start_line_number),(end_line_number)s/word/target_word/g
+```
+
+# plugins
+
+## install plugin with Vundle plugin manager 
+
+add plugin install line in vimrc
+```
+Plugin 'sample_plugin'
+```
+```
+:so $MYVIMRC
+```
+```
+:PluginInstall
+```
+
+## generate table of contents for md files
+install vim-markdown-toc
+
+generate table of contents for GFM
+```
+:GenTocGFM
+```
+
+update toc
+```
+:UpdateToc
+```
+
+remove toc
+```
+:RemoveToc
 ```

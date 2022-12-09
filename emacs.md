@@ -1,3 +1,7 @@
+<!-- vim-markdown-toc GFM -->
+
+<!-- vim-markdown-toc -->
+
 open file in terminal
 ```
 emacs -nw filename

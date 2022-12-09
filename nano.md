@@ -1,3 +1,11 @@
+<!-- vim-markdown-toc GFM -->
+
+* [to open a file](#to-open-a-file)
+* [to save a file](#to-save-a-file)
+* [to exit](#to-exit)
+
+<!-- vim-markdown-toc -->
+
 ## to open a file
 ```
 nano filename
