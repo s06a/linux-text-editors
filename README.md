@@ -1,10 +1,10 @@
-# Learn ed, vi, vim, nano, emacs, and micro (the concise way)
+# Learn Linux Text Editors (the Concise Way)
 
 ## How this repository would be different from other repositories?
-- it would be short and concise
-- that's it!
+- It would be short and concise
+- That's it!
 
-## chapters
+## Chapters
 - **ed** (not started yet)
 - **vi-vim** (almost done)
 	- open/save/exit/navigate (single and multiple files)
