@@ -5,7 +5,7 @@
 - that's it!
 
 ## chapters
-- **vi-vim** almost done
+- **vi-vim** (almost done)
 	- open/save/exit/navigate (single and multiple files)
 	- buffer/tab/screen split
 	- edit/copy/cut/paste/delete/undo
