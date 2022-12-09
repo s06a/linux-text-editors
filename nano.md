@@ -1,3 +1,5 @@
+# Table of contents
+
 <!-- vim-markdown-toc GFM -->
 
 * [to open a file](#to-open-a-file)
