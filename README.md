@@ -5,9 +5,9 @@
 - that's it!
 
 ## chapters
-- **vi/vim** almost done
-- **nano** in progress
-- **emacs** in progress
-- **micro** not strated yet
+- **01_vi-vim** almost done
+- **02_nano** in progress
+- **03_emacs** in progress
+- **04_micro** not strated yet
 
 
