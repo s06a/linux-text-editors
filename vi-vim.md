@@ -18,6 +18,7 @@
 * [plugins](#plugins)
 	* [install plugin with Vundle plugin manager](#install-plugin-with-vundle-plugin-manager)
 	* [generate table of contents for md files](#generate-table-of-contents-for-md-files)
+	* [NERDTree - file system explorer in vim](#nerdtree---file-system-explorer-in-vim)
 
 <!-- vim-markdown-toc -->
 
@@ -351,3 +352,12 @@ remove toc
 ```
 :RemoveToc
 ```
+
+## NERDTree - file system explorer in vim
+install NERDTree
+
+enable NERDTree (use `ctrl`+`w` and arrow keys to navigate between splits)
+```
+:NERDTree
+```
+
