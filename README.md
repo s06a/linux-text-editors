@@ -7,12 +7,17 @@
 ## Chapters
 - **ed** (not started yet)
 - **vi-vim** (almost done)
-	- open/save/exit/navigate (single and multiple files)
-	- buffer/tab/split
-	- edit/copy/cut/paste/delete/undo
-	- find or replace
+	- working with vi/vim
+		- open/save/exit/navigate (single and multiple files)
+		- buffer/tab/split
+		- edit/copy/cut/paste/delete/undo
+		- find or replace
+	- plugins
+		- install plugins
+		- toc generator
+		- NERDTree
 - **nano** in progress
 - **emacs** in progress
-- **micro** not strated yet
+- **micro** in progress
 
 
