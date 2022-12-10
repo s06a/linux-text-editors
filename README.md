@@ -5,7 +5,7 @@
 - That's it!
 
 ## Chapters
-- **ed** (not started yet)
+- **ed** in progress
 - **vi-vim** (almost done)
 	- working with vi/vim
 		- open/save/exit/navigate (single and multiple files)
