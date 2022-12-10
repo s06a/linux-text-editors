@@ -6,7 +6,7 @@
 
 ## Chapters
 - **ed** in progress
-- **vi-vim** (almost done)
+- **vi-vim** almost done
 	- working with vi/vim
 		- open/save/exit/navigate (single and multiple files)
 		- buffer/tab/split
