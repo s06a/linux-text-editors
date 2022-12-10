@@ -91,7 +91,7 @@ to discard all changes and quit
 ```
 
 ## to work with tabs
-to open a file in a new tab
+to create/open a file in a new tab
 ```
 :tabe filename
 ```
@@ -112,7 +112,7 @@ to move to the previous tab
 ```
 
 ## to work with split screen mode
-to open a file with split screen
+to create/open a file with split screen
 ```
 :sp filename
 ```
