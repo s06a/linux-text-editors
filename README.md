@@ -6,6 +6,9 @@
 
 ## Chapters
 - **ed** almost done
+	- open/insert/write/quit
+	- view and navigate
+	- edit the buffer
 - **vi-vim** almost done
 	- working with vi/vim
 		- open/save/exit/navigate (single and multiple files)
