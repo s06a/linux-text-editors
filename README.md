@@ -1,8 +1,4 @@
-# Learn Linux Text Editors (the Concise Way)
-
-## How this repository would be different from other repositories?
-- It would be short and concise
-- That's it!
+# Learn Linux Text Editors
 
 ## Chapters
 - **ed** almost done
