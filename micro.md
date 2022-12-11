@@ -29,6 +29,8 @@ to enable prompt for typing commands: `ctrl`+`e`
 
 help: `ctrl`+`g`
 
+shell mode (to run shell commands, temporarily closes micro): `ctrl`+`b`
+
 ## to change colorscheme
 ```
 > set colorscheme  preferred_color_scheme
@@ -38,7 +40,3 @@ to see colorschemes
 ```
 > help colors
 ``` 
-
-shell mode (to run shell commands, temporarily closes micro): `ctrl`+'b'
-
-
