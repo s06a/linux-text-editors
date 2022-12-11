@@ -1,3 +1,13 @@
+# Table of Contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [to open/save/close a file](#to-opensaveclose-a-file)
+* [command, help, shell](#command-help-shell)
+* [to change colorscheme](#to-change-colorscheme)
+
+<!-- vim-markdown-toc -->
+
 ## to open/save/close a file
 to open a file
 ```
@@ -12,3 +22,23 @@ micro file1 file2
 to save a file: `ctrl`+`s`
 
 to exit: `ctrl`+`q`
+
+## command, help, shell
+
+to enable prompt for typing commands: `ctrl`+`e`
+
+help: `ctrl`+`g`
+
+## to change colorscheme
+```
+> set colorscheme  preferred_color_scheme
+```
+
+to see colorschemes
+```
+> help colors
+``` 
+
+shell mode (to run shell commands, temporarily closes micro): `ctrl`+'b'
+
+
