@@ -1,6 +1,6 @@
 # Learn Linux Text Editors
 
-Learn to work with ed, vi, vim, nano, emacs, and micro in a short time. Somehow this repository is a cheatsheet to remember how to work with these text editors. 
+Learn to work with ed, vi, vim, nano, emacs, and micro in a short time. Somehow this repository is a cheat sheet to remember how to work with these text editors. 
 
 
 ## Chapters
