@@ -19,6 +19,7 @@
 	* [install plugin with Vundle plugin manager](#install-plugin-with-vundle-plugin-manager)
 	* [generate table of contents for md files](#generate-table-of-contents-for-md-files)
 	* [NERDTree - file system explorer in vim](#nerdtree---file-system-explorer-in-vim)
+	* [vim-fugitive - use Git inside vim](#vim-fugitive---use-git-inside-vim)
 
 <!-- vim-markdown-toc -->
 
@@ -375,4 +376,9 @@ enable NERDTree (use `ctrl`+`w` and arrow keys to navigate between splits)
 ```
 :NERDTree
 ```
+## vim-fugitive - use Git inside vim
+install [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
+'''
+:Git command
+```
