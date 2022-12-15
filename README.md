@@ -4,7 +4,7 @@ Learn to work with ed, vi, vim, nano, emacs, and micro in a short time. Somehow 
 
 
 ## Chapters
-- **ed**
+- [**ed**](/ed.md)
 	- open/insert/write/quit
 	- view and navigate
 	- edit the buffer
