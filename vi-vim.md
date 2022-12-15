@@ -382,6 +382,11 @@ to open a file in vertical split
 s
 ```
 
+change the CWD to the selected dir
+```
+cd
+```
+
 close the NERDTree
 ```
 q
