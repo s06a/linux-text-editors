@@ -18,6 +18,7 @@ Learn to work with ed, vi, vim, nano, emacs, and micro in a short time. Somehow 
 		- install plugins
 		- toc generator
 		- NERDTree
+		- vim-fugitive
 - **nano** in progress
 - **emacs** in progress
 - **micro** in progress
