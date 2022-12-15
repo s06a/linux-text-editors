@@ -393,6 +393,11 @@ change the CWD to the selected dir
 cd
 ```
 
+refresh directory
+```
+r
+```
+
 close the NERDTree
 ```
 q
