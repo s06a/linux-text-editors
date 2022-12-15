@@ -376,6 +376,22 @@ enable NERDTree (use `ctrl`+`w` and arrow keys to navigate between splits)
 ```
 :NERDTree
 ```
+
+to open a file in vertical split
+```
+s
+```
+
+close the NERDTree
+```
+q
+```
+
+toggle help
+```
+?
+```
+
 ## vim-fugitive - use Git inside vim
 install [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
