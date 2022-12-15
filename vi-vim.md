@@ -379,6 +379,6 @@ enable NERDTree (use `ctrl`+`w` and arrow keys to navigate between splits)
 ## vim-fugitive - use Git inside vim
 install [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
-'''
+```
 :Git command
 ```
