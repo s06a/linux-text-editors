@@ -9,12 +9,12 @@ Learn to work with ed, vi, vim, nano, emacs, and micro in a short time. Somehow 
 	- view and navigate
 	- edit the buffer
 - [**vi-vim**](/vi-vim.md)
-	- [working with vi/vim](/vi-vim.md#working-with-vivim)
+	- working with vi/vim
 		- open/save/exit/navigate (single and multiple files)
 		- buffer/tab/split
 		- edit/copy/cut/paste/delete/undo
 		- find or replace
-	- [plugins](/vi-vim.md#plugins)
+	- plugins
 		- install plugins
 		- toc generator
 		- NERDTree
