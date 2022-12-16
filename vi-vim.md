@@ -359,7 +359,7 @@ Plugin 'sample_plugin'
 ```
 
 ## generate table of contents for md files
-install vim-markdown-toc
+install [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 
 generate table of contents for GFM
 ```
@@ -377,7 +377,7 @@ remove toc
 ```
 
 ## NERDTree - file system explorer in vim
-install NERDTree
+install [NERDTree](https://github.com/preservim/nerdtree)
 
 enable NERDTree (use `ctrl`+`w` and arrow keys to navigate between splits)
 ```
@@ -428,4 +428,9 @@ let b:ale_fixers = {'python': ['autopep8', 'isort', 'remove_trailing_lines', 'tr
 
 " to enable autofix on save
 let g:ale_fix_on_save = 1
+```
+
+to see appropriate fixers for a file
+```
+:ALEFixSuggest
 ```
