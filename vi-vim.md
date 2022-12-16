@@ -21,6 +21,7 @@
 	* [generate table of contents for md files](#generate-table-of-contents-for-md-files)
 	* [NERDTree - file system explorer in vim](#nerdtree---file-system-explorer-in-vim)
 	* [vim-fugitive - use Git inside vim](#vim-fugitive---use-git-inside-vim)
+	* [ale - to autofix writing issues](#ale---to-autofix-writing-issues)
 
 <!-- vim-markdown-toc -->
 
@@ -413,4 +414,18 @@ install [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
 ```
 :Git command
+```
+
+## ale - to autofix writing issues
+install [ale](https://github.com/dense-analysis/ale)
+
+make pep8 available for python files
+```
+" make and open this file: ~/.vim/ftplugin/python.vim
+" add below lines and save the file, reopen vim
+
+let b:ale_fixers = {'python': ['autopep8', 'isort', 'remove_trailing_lines', 'trim_whitespace', 'autoflake', 'add_blank_lines_for_python_control_statements']}
+
+" to enable autofix on save
+let g:ale_fix_on_save = 1
 ```
