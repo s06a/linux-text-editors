@@ -5,6 +5,7 @@
 	* [to open a file](#to-open-a-file)
 	* [to see help](#to-see-help)
 	* [command mode](#command-mode)
+	* [normal mode](#normal-mode)
 	* [run shell command](#run-shell-command)
 	* [to work with multiple files](#to-work-with-multiple-files)
 	* [to work with tabs](#to-work-with-tabs)
@@ -38,6 +39,11 @@ vi filename
 ```
 
 ## command mode
+```
+:
+```
+
+## normal mode
 ```
 esc
 ```
