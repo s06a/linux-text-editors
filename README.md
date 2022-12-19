@@ -1,24 +1,14 @@
 # Linux Text Editors Cheat Sheet
 
-Learn to work with ed, vi, vim, nano, emacs, and micro in a short time. Somehow this repository is a cheat sheet to remember how to work with these text editors. 
+A cheat sheet to remember how to work with ed, vi, vim, nano, emacs, and micro in a short time. 
 
+## Notice
+
+I believe that vim is great, and I'm using it almost for every text editing or programming task nowadays. So, it might take a while to update other editors. However, I'm still very excited to learn emacs.
 
 ## Chapters
 - [**ed**](/ed.md)
-	- open/insert/write/quit
-	- view and navigate
-	- edit the buffer
 - [**vi-vim**](/vi-vim.md)
-	- working with vi/vim
-		- open/save/exit/navigate (single and multiple files)
-		- buffer/tab/split
-		- edit/copy/cut/paste/delete/undo
-		- find or replace
-	- plugins
-		- install plugins
-		- toc generator
-		- NERDTree
-		- vim-fugitive
 - [**nano**](/nano.md) in progress
 - [**emacs**](/emacs.md) in progress
 - [**micro**](micro.md) in progress
