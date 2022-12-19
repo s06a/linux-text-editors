@@ -119,10 +119,15 @@ to move to the next tab
 ```
 :tabn
 ```
-
+```
+gt
+```
 to move to the previous tab
 ```
 :tabp
+```
+```
+gT
 ```
 
 ## to work with split screen mode
@@ -420,6 +425,20 @@ toggle help
 ?
 ```
 
+open a file in new tab
+```
+t
+```
+
+move to the next tab
+```
+gt
+```
+
+move to the previous tab
+```
+gT
+```
 ## vim-fugitive - use Git inside vim
 install [vim-fugitive](https://github.com/tpope/vim-fugitive)
 
