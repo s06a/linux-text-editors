@@ -400,6 +400,11 @@ change the CWD to the selected dir
 cd
 ```
 
+change tree root to selected dir
+```
+CD
+```
+
 refresh directory
 ```
 r
