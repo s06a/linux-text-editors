@@ -11,7 +11,7 @@
 	* [to work with tabs](#to-work-with-tabs)
 	* [to work with split screen mode](#to-work-with-split-screen-mode)
 	* [to write (insert mode)](#to-write-insert-mode)
-	* [to copy/cut/paste](#to-copycutpaste)
+	* [to copy/cut/paste/mark](#to-copycutpastemark)
 	* [to save or exit](#to-save-or-exit)
 	* [to navigate in the editor](#to-navigate-in-the-editor)
 	* [to delete content](#to-delete-content)
@@ -202,7 +202,7 @@ insert a new line before the cuurent line
 O
 ```
 
-## to copy/cut/paste 
+## to copy/cut/paste/mark 
 copy a line
 ```
 yy
@@ -227,6 +227,16 @@ select (move cursor, use `y` to copy and `d` to cut, use `p` to paste)
 
 ```
 v
+```
+
+to set a marker named 'f'
+```
+`m` then `f`
+```
+
+to jump to the marker 'f'
+```
+`'` then `f`
 ```
 
 ## to save or exit 
