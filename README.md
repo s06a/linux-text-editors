@@ -1,3 +1,7 @@
+## Updated notice
+
+moved to another [repository](https://github.com/s06a/to-remember)
+
 # Linux Text Editors Cheat Sheet
 
 A cheat sheet to remember how to work with ed, vi, vim, nano, emacs, and micro in a short time. 
@@ -12,5 +16,4 @@ I believe that vim is great, and I'm using it almost for every text editing or p
 - [**nano**](/nano.md) in progress
 - [**emacs**](/emacs.md) in progress
 - [**micro**](micro.md) in progress
-
 
